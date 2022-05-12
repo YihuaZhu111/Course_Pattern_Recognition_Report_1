@@ -5,5 +5,5 @@ dependence:
 python
 numpy
 pandas
-matplot
+matplotlib
 sklearn
